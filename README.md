@@ -15,3 +15,6 @@ winxpsound('startup'); % Play the startup sound
 
 [y,fs] = winxpsound('shutdown'); % Save the audio data and sample rate for the shutdown sound
 ```
+
+# Disclaimer
+All rights to sounds included in this repository belong to Microsoft.
